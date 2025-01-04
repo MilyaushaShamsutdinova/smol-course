@@ -164,4 +164,4 @@ sft_output/
 #.idea/
 .DS_Store
 
-1_instruction_tuning\notebooks\SmolLM2-FT-smoltalk
+1_instruction_tuning/notebooks/SmolLM2-FT-smoltalk/
